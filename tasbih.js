@@ -79,7 +79,7 @@ decrementBtn3.addEventListener('click', function(){
 // 4
 incrementBtn4.addEventListener('click', function(){
     if( initialValue4 === 33){
-        return alert ('La Ilaha Illallah Complete')
+        return alert ('Allahuakbar Complete')
     }
     initialValue4 += 1
     value4.innerText = initialValue4
